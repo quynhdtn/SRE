@@ -1,0 +1,10 @@
+a a
+ab ab
+a(b|c) ab  ac
+a(b|c)*  a ab abc abbbbb abbccc
+a*(b|c)* a ab aaaac b c abbcb
+((((a))))  a
+((((a))*)) a aa
+(a b
+a**bc* aaabcbc aaabcc
+a**(bc)* aaabcbc aaabcc

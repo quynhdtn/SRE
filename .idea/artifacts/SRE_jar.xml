@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SRE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SRE_jar</output-path>
+    <root id="archive" name="SRE.jar">
+      <element id="module-output" name="SRE" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
